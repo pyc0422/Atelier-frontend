@@ -5,10 +5,13 @@
 ## Product Detail Page
 Show the relevant information for a single product in the catalog.<br>
 Contains 4 modules:<br/>
-<li>Product Overview Module - Critical Priority
-<li>Ratings & Reviews Module - High Priority
-<li>Questions & Answers Module - High Priority
-<li>Related Items & Outfit Creation Module - High Priority
+- Product Overview Module - Huan Tran
+- Ratings & Reviews Module - Yuchen Pan
+- Questions & Answers Module - Vivienne Weilacker
+- Related Items & Outfit Creation Module - Cameron Hirsh
+
+I'm working on Rating&Reviews Module. This module contains 2 parts. Left side is rating breakdown ans product breakdown, Right part is the reviews list.
+<img width="901" alt="Screen Shot 2022-10-20 at 12 38 21 PM" src="https://user-images.githubusercontent.com/86500068/197021510-2d97817e-a6d7-49d7-af03-c5bca405197f.png">
   
 ## Table of Contents
 
